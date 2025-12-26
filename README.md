@@ -23,7 +23,7 @@ This Excel dashboard analyzes sales performance across regions, products, and ti
 - Advanced Excel formulas
 
 ## 📊 Dashboard Preview
-![Dashboard]([UK Dashboard SS.png](https://github.com/kumar98rishav-oss/Excel-UK-Road-Accident-Analysis-Dashboard/blob/main/UK%20Dashboard%20SS.png)
+![Dashboard]([UK Dashboard SS.png](https://github.com/kumar98rishav-oss/Excel-UK-Road-Accident-Analysis-Dashboard/blob/main/UK%20Dashboard%20SS.png))
 
 ## 📁 Files Included
 - Sales_Dashboard.xlsx → Interactive Excel dashboard
