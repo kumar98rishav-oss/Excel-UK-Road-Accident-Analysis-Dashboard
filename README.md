@@ -1,5 +1,7 @@
 # Excel-UK-Road-Accident-Analysis-Dashboard
 This project analyzes and visualizes UK road traffic accident data through an interactive dashboard to uncover trends, severity distribution, and key factors affecting road safety.  Time-based analysis examines patterns by year, month, and day, revealing seasonal trends, peak periods, and long-term changes in accident frequency.
+![Image alt](https://github.com/kumar98rishav-oss/Excel-UK-Road-Accident-Analysis-Dashboard/blob/7e8fc329b91a8759bf41893b530a73492812917f/UK%20Dashboard%20SS.png)
+
 # Excel Sales Dashboard 📊
 
 ## 📌 Project Overview
