@@ -19,7 +19,7 @@ This Excel dashboard analyzes sales performance across regions, products, and ti
 - Advanced Excel formulas
 
 ## 📊 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](UK Dashboard SS.png)
 
 ## 📁 Files Included
 - Sales_Dashboard.xlsx → Interactive Excel dashboard
